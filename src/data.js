@@ -8,6 +8,14 @@ export const projects = [
     link: "https://github.com/Vishrut19/Pokemon-App",
   },
   {
+    title: "Ecommerce Website",
+    subtitle: "ReactJS, Redux and GraphQL",
+    description:
+      "I have created an Ecommerce Website using ReactJS,Redux, GraphQL.",
+    image: "./ecommerce.gif",
+    link: "https://github.com/Vishrut19/ECommerce-Website",
+  },
+  {
     title: "React Password Generator App",
     subtitle: "ReactJS App",
     description:
