@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Pokemon App",
-    subtitle: "ReactJS App and PokeAPI",
+    title: "HTML5,CSS3,JavaScript",
+    subtitle: "Starbucks Redesign",
     description:
-      "This is a Pokemon App built using ReactJS and PokeAPI, PokeAPI contains database of almost of the pokemons",
-    image: "./Pokemon App.png",
-    link: "https://github.com/Vishrut19/Pokemon-App",
+      "This is a Starbucks Clone using HTML5,CSS3 and JavaScript. I have also included APIS such as SwiperJS and ScrollRevealJS",
+    image: "./starbucks.png",
+    link: "https://starbucks-redesign-vishrut.netlify.app/",
   },
   {
     title: "Ecommerce Website",
