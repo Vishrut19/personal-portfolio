@@ -3,7 +3,7 @@ export const projects = [
     title: "HTML5,CSS3,JavaScript",
     subtitle: "Starbucks Redesign",
     description:
-      "This is a Starbucks Clone using HTML5,CSS3 and JavaScript. I have also included APIS such as SwiperJS and ScrollRevealJS",
+      "This is a Starbucks Clone using HTML5,CSS3 and JavaScript. I have also included APIS such as SwiperJS and ScrollRevealJS. It also has Dark and Light Mode Theme Support too",
     image: "./starbucks.png",
     link: "https://starbucks-redesign-vishrut.netlify.app/",
   },
